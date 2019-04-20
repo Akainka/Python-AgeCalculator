@@ -1,7 +1,7 @@
 # AgeCalculator
 
-# DO ZROBIENIA:
-# # POKAŻ BŁĄD JEŚLI WIEK JEST UJEMNY
+# TO DO:
+# # SHOW AN ERROR IF AGE IS NEGATIVE
 
 
 def AgeCalculator():
